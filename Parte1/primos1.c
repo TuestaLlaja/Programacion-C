@@ -34,5 +34,5 @@ int main()
 */
 if(divisor >=numero)
    printf("%d\n", numero);
-        }
+        
 }
